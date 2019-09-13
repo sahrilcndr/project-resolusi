@@ -1,0 +1,7 @@
+Project Resolusi {
+
+1. Membuat platform untuk website travel.
+2. Konsisten dalam pembelajaran.
+3. Membuat forum diskusi programmer. 
+
+}
