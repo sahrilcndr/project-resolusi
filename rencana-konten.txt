@@ -3,6 +3,7 @@ Rencana konten kedepannya {
   2. Javascript
     * Struktur data dasar
     * Vue
+    * React
   3. Html
   4. ES6
   5. Python
