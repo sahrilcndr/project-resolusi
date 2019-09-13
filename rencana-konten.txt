@@ -1,7 +1,9 @@
 Rencana konten kedepannya {
   1. Riset
   2. Javascript
-    * Struktur data dasae
+    * Struktur data dasar
+    * Vue
   3. Html
   4. ES6
+  5. Python
 }
