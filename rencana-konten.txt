@@ -1,7 +1,11 @@
 Rencana konten kedepannya {
   1. Riset
   2. Javascript
-    * Angular
+    * Struktur data dasar
+    * Vue
+    * React
+master
   3. Html
   4. ES6
+  5. Python
 }
