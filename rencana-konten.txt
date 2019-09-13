@@ -1,0 +1,6 @@
+Rencana konten kedepannya {
+  1. Riset
+  2. Javascript
+  3. Html
+  4. ES6
+}
