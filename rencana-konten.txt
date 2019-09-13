@@ -1,7 +1,7 @@
 Rencana konten kedepannya {
   1. Riset
   2. Javascript
-    * Struktur data dasae
+    * Angular
   3. Html
   4. ES6
 }
