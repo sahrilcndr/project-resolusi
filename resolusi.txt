@@ -1,8 +1,7 @@
 Project Resolusi {
 
 1. Membuat platform untuk website travel.
-2. Konsisten dalam pembelajaran.
-3. Membuat forum diskusi programmer. 
-4. Membuat web sukabumi shopping.
+2. Membuat forum diskusi programmer. 
+3. Membuat web sukabumi shopping.
 
 }
